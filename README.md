@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
+<p align="center"><a href="https://t.me/razeBots"><img src="https://github.com/XDacchuX/RazeMusicX/raw/main/etc/Hexor.png"></a></p>
 <p align="center">
     <br><b>Raze MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
