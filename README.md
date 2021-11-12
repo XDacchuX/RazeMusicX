@@ -21,7 +21,7 @@
 
 ### 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-bluegreen)](https://replit.com/Cocoboy1/RazeMusicX) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-bluegreen)](https://replit.com/@COCOBOY1/RazeMusicX)
 
 ### 🎖 History
 
@@ -52,7 +52,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HEXOROP/eSportMusicX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XDacchuX/RazeMusicX)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
 
