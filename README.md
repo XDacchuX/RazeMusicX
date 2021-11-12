@@ -1,7 +1,7 @@
 <img src = "https://telegra.ph/file/9a1fd4e38390df3308222.jpg">
 
 <p align="center">
-    <br><b>Raze MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+    <br><b>Raze MusicX is an amazing music player in telegram it allow us to play music with cool features</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
