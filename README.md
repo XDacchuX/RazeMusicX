@@ -1,4 +1,4 @@
-<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
+<img src = "https://telegra.ph/file/9a1fd4e38390df3308222.jpg">
 
 <p align="center">
     <br><b>Raze MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
