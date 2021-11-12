@@ -6,11 +6,11 @@
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
     <a href="https://github.com/XDacchuX/RazeMusicX/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://github.com/XDacchuX/RazeMusicX"> <img src="https://img.shields.io/github/repo-size/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/XDacchuX/RazeMusicX/commits/main"> <img src="https://img.shields.io/github/last-commit/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/XDacchuX/RazeMusicX/issues"> <img src="https://img.shields.io/github/issues/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/XDacchuX/RazeMusicX/network/members"> <img src="https://img.shields.io/github/forks/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/XDacchuX/RazeMusicX/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/XDacchuX/RazeMusicX"> <img src="https://img.shields.io/github/repo-size/XDacchuX/RazeMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/XDacchuX/RazeMusicX/commits/main"> <img src="https://img.shields.io/github/last-commit/XDacchuX/RazeMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/XDacchuX/RazeMusicX/issues"> <img src="https://img.shields.io/github/issues/XDacchuX/RazeMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/XDacchuX/RazeMusicX/network/members"> <img src="https://img.shields.io/github/forks/XDacchuX/RazeMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/XDacchuX/RazeMusicX/network/members"> <img src="https://img.shields.io/github/stars/XDacchuX/RazeMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 <h3>Requirements 📝</h3>
